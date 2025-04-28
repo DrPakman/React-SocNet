@@ -2,20 +2,3 @@
   display: grid;
   grid-template-columns: 2fr 10fr;
 }
-
-.dialogsItems {
-  padding: 10px;
-  color: white;
-}
-
-.dialogsItems .active {
-    color: gold;
-}
-
-.Messages {
-    padding: 10px;
-}
-
-.Messages.Message {
-    color:white
-}
